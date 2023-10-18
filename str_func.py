@@ -1,3 +1,3 @@
 def change_str(input_str):
 
-    return input_str.upper 
+    return input_str.upper()
